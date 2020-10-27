@@ -1,5 +1,8 @@
 ## Calculadora feita com Julia 1.2.0, Blink e html/css.
 
+Essencialmente, o Blink é capaz de disponibilizar paginas html/css em uma janela local.
+
+@@ -0,0 +1,148 @@
 <!DOCTYPE html>
 <html>
 <head>
